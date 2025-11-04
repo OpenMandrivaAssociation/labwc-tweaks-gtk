@@ -32,3 +32,6 @@ labwc-tweaks is a GUI configuration application for the labwc Wayland compositor
 
 %files -f %{name}.lang
 %license LICENSE
+%{_bindir}/labwc-tweaks-gtk
+%{_datadir}/applications/labwc-tweaks-gtk.desktop
+%{_iconsdir}/hicolor/scalable/apps/labwc-tweaks-gtk.svg
