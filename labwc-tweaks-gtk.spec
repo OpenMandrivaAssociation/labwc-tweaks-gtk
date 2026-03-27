@@ -1,7 +1,7 @@
 %define git 20250707
 Name:           labwc-tweaks-gtk
 Version:        0.1.0~%{git}
-Release:        1
+Release:        2
 Summary:        GUI Configuration app for labwc
 License:        GPL-2.0-only
 URL:            https://github.com/labwc/labwc-tweaks-gtk
